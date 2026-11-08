@@ -16,7 +16,12 @@ Gap against the benchmarked profiles (Meta/Anthropic/Google/OpenAI engineers): n
 <tr>
 <td align="center" width="33%"><img src="assets/siemens.webp" width="90"></td>
 <td align="center" width="33%"><img src="assets/toyota.svg" width="50"></td>
-<td align="center" width="33%"><img src="assets/trich.webp" width="64"></td>
+<td align="center" width="33%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/trich-dark.webp">
+  <img src="assets/trich.webp" width="64">
+</picture>
+</td>
 </tr>
 <tr>
 <td align="center"><b>Siemens Indonesia</b><br><sub>Software Developer Intern</sub></td>
